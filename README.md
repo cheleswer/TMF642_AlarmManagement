@@ -1,5 +1,5 @@
 # TMF642_AlarmManagement
-TM Forum Open APIs (Apache 2.0) Alarm Management API
+TM Forum Open APIs (Apache 2.0) Alarm Management APIa
 
 This API is to be used to management the information about
 a given alarm condition of an alarmed Managed Object
